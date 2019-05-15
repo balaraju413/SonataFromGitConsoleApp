@@ -1,0 +1,2 @@
+# SonataFromGitConsoleApp
+Testing purpose
